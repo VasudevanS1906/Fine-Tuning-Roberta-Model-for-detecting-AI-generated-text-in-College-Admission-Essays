@@ -3,11 +3,11 @@
 Fine-Tuning Roberta Model for detecting AI generated text in College Admission Essays
 
 # Table of contents
-  == Introduction ==
-  -Roberta Usage Tips
-  -How it works 
-  -Installation
-  -Contributing
+-Introduction
+-Roberta Usage Tips
+-How it works 
+-Installation
+-Contributing
 # Introduction
 The remarkable ability of large language models (LLMs) to grasp, follow, and construct complex languages has allowed LLM-generated texts to flood many sectors of our daily lives at an alarming rate, with potentially negative consequences and concerns for society and academia. As LLMs become more prevalent, how can we recognise LLM-generated texts to assist mitigate the damage posed by LLM misuse?AI-generated material is becoming more complex, making it difficult to distinguish between real and computer-generated text. Our project intends to tackle this issue by harnessing the power of RoBERTa (Robustly Optimized BERT Approach) to recognise and flag AI-generated text parts. Whether you're dealing with chatbots, articles, or social media posts, our technology provides accurate identification and ensures the validity of digital information.
 
