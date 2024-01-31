@@ -1,4 +1,5 @@
 # Fine-Tuning-Roberta-Model-for-detecting-AI-generated-text-in-College-Admission-Essays
+![Screenshot] (roberta_ai_detect_logo.png)
 Fine-Tuning Roberta Model for detecting AI generated text in College Admission Essays
 
 # Introduction
