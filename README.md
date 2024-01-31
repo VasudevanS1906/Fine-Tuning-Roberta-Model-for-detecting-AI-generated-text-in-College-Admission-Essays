@@ -3,7 +3,7 @@
 Fine-Tuning Roberta Model for detecting AI generated text in College Admission Essays
 
 # Table of contents
-  -Introduction
+  == Introduction ==
   -Roberta Usage Tips
   -How it works 
   -Installation
