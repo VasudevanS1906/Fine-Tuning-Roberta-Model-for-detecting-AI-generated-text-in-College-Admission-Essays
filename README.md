@@ -30,15 +30,18 @@ Model Training: Using a RoBERTa-based sequence classification model, we train th
 
 Predictions: Once trained, the model makes predictions about test data, identifying prospective AI-generated content segments.
 
+Result Analysis: The findings are saved in a CSV file, which allows users to study and analyse the discovered segments, as well as their confidence points
+
 # Installation
 To use our Roberta model for AI-Generated Text Detection, just follow these steps:
 1. **Clone the Repository**
-2. git clone 
+2. git clone https://github.com/your-username/Fine-Tuning-Roberta-Model-for-detecting-AI-generated-text-in-College-Admission-Essays.git
+   cd Fine-Tuning-Roberta-Model-for-detecting-AI-generated-text-in-College-Admission-Essays
 
 # Contributing 
 Contributions are encouraged! If you have any ideas, suggestions, or bug reports, please create an issue or pull request. We appreciate your efforts to improving Roberta Model for detecting AI generated text.
 
 
 
-Result Analysis: The findings are saved in a CSV file, which allows users to study and analyse the discovered segments, as well as their confidence points.
+.
 
