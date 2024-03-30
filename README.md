@@ -25,7 +25,7 @@ RoBERTa doesn’t have token_type_ids, you don’t need to indicate which token 
 
 Same as BERT with better pretraining tricks:
 
-dynamic masking: tokens are masked differently at each epoch, whereas BERT does it once and for all
+**dynamic masking**: tokens are masked differently at each epoch, whereas BERT does it once and for all
 together to reach 512 tokens (so the sentences are in an order than may span several documents)
 train with larger batches
 use BPE with bytes as a subunit and not characters (because of unicode characters)
@@ -34,15 +34,15 @@ CamemBERT is a wrapper around RoBERTa. Refer to this page for usage examples.
 # How it Works
 Our system takes a complete approach to AI-generated text detection.
 
-Data Preprocessing: To improve our model's accuracy, we clean and preprocess textual data by removing noise and extraneous information.
+**Data Preprocessing**: To improve our model's accuracy, we clean and preprocess textual data by removing noise and extraneous information.
 
-RoBERTa Tokenization: Using the RoBERTa tokenizer, we encode the preprocessed text and prepare it for use in our detection model.
+**RoBERTa Tokenization**: Using the RoBERTa tokenizer, we encode the preprocessed text and prepare it for use in our detection model.
 
-Model Training: Using a RoBERTa-based sequence classification model, we train the system to accurately identify between authentic and AI-generated text.
+**Model Training**: Using a RoBERTa-based sequence classification model, we train the system to accurately identify between authentic and AI-generated text.
 
-Predictions: Once trained, the model makes predictions about test data, identifying prospective AI-generated content segments.
+**Predictions**: Once trained, the model makes predictions about test data, identifying prospective AI-generated content segments.
 
-Result Analysis: The findings are saved in a CSV file, which allows users to study and analyse the discovered segments, as well as their confidence points
+**Result Analysis**: The findings are saved in a CSV file, which allows users to study and analyse the discovered segments, as well as their confidence points
 
 # Installation
 To use our Roberta model for AI-Generated Text Detection, just follow these steps:
@@ -50,10 +50,22 @@ To use our Roberta model for AI-Generated Text Detection, just follow these step
 2. git clone https://github.com/your-username/Fine-Tuning-Roberta-Model-for-detecting-AI-generated-text-in-College-Admission-Essays.git
    cd Fine-Tuning-Roberta-Model-for-detecting-AI-generated-text-in-College-Admission-Essays
 
-# Contributing 
-Contributions are encouraged! If you have any ideas, suggestions, or bug reports, please create an issue or pull request. We appreciate your efforts to improving Roberta Model for detecting AI generated text.
 
+# Support and Contact
 
+If you have any questions, please feel free to contact me at [vasudevanswornampillai@gmail.com].
+
+# License
+
+This project is licensed under the **Apache 2.0 License**.
+
+# Share with the community
+
+If you find this project interesting or helpful, don't hesitate to share with your community! Let's learn and grow together!
+
+# Conclusion
+
+In this project, we’ve developed a robust solution for Digitizing health records. The model, a beacon of performance, awaits those go into the beautiful world of Python.
 
 .
 
