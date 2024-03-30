@@ -65,7 +65,7 @@ If you find this project interesting or helpful, don't hesitate to share with yo
 
 # Conclusion
 
-In this project, we’ve developed a robust solution for Digitizing health records. The model, a beacon of performance, awaits those go into the beautiful world of Python.
+In this project, we’ve developed a robust solution for detecting AI-generated text in college admission essays. The model, a beacon of performance, awaits those go into the beautiful world of Python.
 
 .
 
